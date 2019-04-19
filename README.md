@@ -1,4 +1,3 @@
-
 VIAPLAY Assignment
 ==================
 
@@ -20,7 +19,7 @@ Use the required enviornment for the -e or --env flag
 
     $ python  template.py --env Development
 
-For testing, Use
+For testing, Use -v to expand the results
 
 .. code:: sh
 
