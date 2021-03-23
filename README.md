@@ -1,4 +1,4 @@
-VIAPLAY Assignment
+AWS VPC Setup
 ==================
 
 Installation
